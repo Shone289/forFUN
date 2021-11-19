@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 text for hottop branch
-=======
-content for test branch
->>>>>>> test
+
